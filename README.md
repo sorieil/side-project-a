@@ -1,4 +1,4 @@
-# skin-silmary
+# A Vue.js project
 
 > A Vue.js project
 
